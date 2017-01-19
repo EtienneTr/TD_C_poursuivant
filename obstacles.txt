@@ -1,0 +1,16 @@
+# Fichier de configuration des obstables
+# veuillez indiquer sur une ligne la position x et y de l'obstacle, séparé par un ;
+#
+# exemple pour créer un carré de 2 par côté allant de x=10 à x=11 et y=10 à y=11;
+10;10;
+10;11;
+11;10;
+11;11;
+#carré de 6
+28;40;
+28;42;
+27;40;
+27;42;
+26;40;
+26;41;
+26;42;
